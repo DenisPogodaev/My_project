@@ -1,11 +1,11 @@
 # Data analyst
 
 ## Описание:
-В репозитории представлены проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) (Яндекс.Практикум).
+В репозитории представлены часть моих проектов по пройденному курсу [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) от Яндекс.Практикума.
 
 ## Основные инструменты и навыки, полученные при обучении:
 - Языки: Python, SQL
-- Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
+- Анализ данных: библиотеки Pandas, NumPy
 - Визуализация: Matplotlib, Plotly, Seaborn
 - Построение дашбордов: Tableau
 - Метрики юнит-экономики, когортный анализ
@@ -14,4 +14,4 @@
 - Машинное обучение ML
 
 ## Диплом:
-![-](https://github.com/DenisPogodaev/My_project/blob/main/Диплом_RU_Погодаев_2025-8073-032.pdf)
+https://github.com/DenisPogodaev/My_project/blob/main/Диплом_RU_Погодаев_2025-8073-032.pdf
